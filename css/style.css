@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+header img{
+    margin: auto;
+    display: block;
+}
+.itemPersonal{
+    font-weight: bold;
+    font-style: italic;
+}
+h1{
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    text-transform: uppercase;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+}
+.listaTiempo{
+    list-style: none;
+}
+.itemTiempo{
+    font-weight: bold;
+}
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
