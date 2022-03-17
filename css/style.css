@@ -21,9 +21,14 @@ h3{
     color: #005677;
     background-color: #C4C4C4;
     text-transform: uppercase;
+    padding-left: 2%;
+    
 }
 .listaTiempo{
     list-style: none;
+}
+.listaDatos{
+    padding-left: 4.5%;
 }
 .itemTiempo{
     font-weight: bold;
@@ -32,4 +37,9 @@ footer{
     background-color: #005677;
     color: white;
     text-align: center;
+    padding: 5px;
+}
+footer img{
+    padding-left: 0.5%;
+    padding-right: 0.5%;
 }
